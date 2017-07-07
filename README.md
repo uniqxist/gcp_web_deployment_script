@@ -1,10 +1,10 @@
 # GCP web deployment script
 > Scripts for GCP web server deployment
 
-## VM SPEC
+### VM SPEC
 * Ubuntu 16.04
 
-## Web server
+### Web server
 * LEMP stack
     * Nginx
     * MariaDB
