@@ -3,10 +3,10 @@
 Scripts for GCP web server deployment
 
 ## VM SPEC
-** Ubuntu 16.04
+* Ubuntu 16.04
 
 ## Web server
-** Nginx
-** MariaDB
-** Python
-** Django
+* Nginx
+* MariaDB
+* Python
+* Django
